@@ -1,4 +1,5 @@
 Task 1 :- Library Management System
+Task 2 :- Hospital Management System
 
 Work :- Design and Implement relational database.
 
